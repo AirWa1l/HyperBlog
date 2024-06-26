@@ -11,3 +11,4 @@ En este curso he visto de todo:
 * Muy buenas practicas a la hora de utilizar Git
 * Creado por el increible Adrian King
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
