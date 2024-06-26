@@ -9,4 +9,10 @@ En este curso he visto de todo:
 * Todos los comandos de Git
 * El flujo de trabajo de GitHub
 * Muy buenas practicas a la hora de utilizar Git
+<<<<<<< HEAD
 * Creado por el increible King
+=======
+* Creado por el increible Adrian King
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
+>>>>>>> readme-mejorado
